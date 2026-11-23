@@ -1,0 +1,67 @@
+{
+  "filmes": [
+    {
+      "titulo": "A Odisseia",
+      "ano": 2026,
+      "sinopse": "A Odisseia (2026), dirigido por Christopher Nolan e baseado no poema épico de Homero, acompanha a longa e perigosa viagem de retorno do rei grego Odisseu (Matt Damon) a Ítaca após a queda de Troia.",
+      "capa": "https://i.pinimg.com/736x/1d/c3/af/1dc3af7781036aa42a28028ac6d823eb.jpg",
+      "fundo": "https://www.gamevicio.com/wp-content/uploads/2026/07/Captura-de-tela-2026-07-15-173110-1536x865.png.webp",
+      "opcoes": [
+        {
+          "qualidade": "1080p",
+          "magnet": "magnet:?xt=urn:btih:eb1bde232496f84931c6d8327293649c04a6a6b9&dn=A%20Odisseia%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=3705980256&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        },
+        {
+          "qualidade": "1080p Full",
+          "magnet": "magnet:?xt=urn:btih:2e5f46a12562152e47c5b5350535eaada598bfc8&dn=A%20Odisseia%202026%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&xl=10838161458&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        },
+        {
+          "qualidade": "4K",
+          "magnet": "magnet:?xt=urn:btih:3b637981e85043b4d6be3d3b29c8147081ed7fa7&dn=A%20Odisseia%202026%20WEB-DL%202160p%20x265%20DV%20HDR10%2B%20DUAL%205.1&xl=33383353542&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        }
+      ]
+    },
+    {
+      "titulo": "Coração Selvagem",
+      "ano": 2026,
+      "sinopse": "Coração Selvagem, dirigido por David Ayer, acompanha James Belmont (Brad Pitt), um ex-militar das Forças Especiais que sobrevive a um acidente de avião no Alasca ao lado de seu cão de combate, Odin.",
+      "capa": "https://image.tmdb.org/t/p/w500/hhUz3tkMlyxYWPMINUPqsWHbeiF.jpg",
+      "fundo": "https://i.pinimg.com/1200x/2d/51/ac/2d51ac3d46a4b8fb8d5bba47a7ee796f.jpg",
+      "opcoes": [
+        {
+          "qualidade": "1080p",
+          "magnet": "magnet:?xt=urn:btih:6c2c6a1cb35f26600c70e1027f38b9ab5619e850&dn=Cora%C3%A7%C3%A3o%20Selvagem%202026%20WEB-DL%201080p%20x264%20DUAL%205.1&xl=2248400022&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        },
+        {
+          "qualidade": "1080p Full",
+          "magnet": "magnet:?xt=urn:btih:c19a35d80e35923263dc8e2ca1cf637c9d0a1eb3&dn=Cora%C3%A7%C3%A3o%20Selvagem%202026%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&xl=6897463785&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Marshals: Uma História de Yellowstone",
+      "ano": 2026,
+      "sinopse": "Com o Rancho Yellowstone no passado, Kayce Dutton junta-se aos Marshals, combinando suas habilidades como cowboy e SEAL para levar justiça a Montana.",
+      "capa": "https://image.tmdb.org/t/p/w500/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg",
+      "fundo": "https://i.pinimg.com/1200x/ea/4a/e4/ea4ae43e650b3e4bca29160cc63086d7.jpg",
+      "temporadas": {
+        "1": [
+          {
+            "episodio": 1,
+            "titulo": "Piya Wiconi",
+            "sinopse": "Kayce Dutton reencontra um antigo companheiro dos SEALs e ajuda sua unidade de agentes federais a rastrear um bombardeiro na Reserva Indígena de Broken Rock.",
+            "magnet": "magnet:?xt=urn:btih:4B6B44A9DBF66A5D36FE5B2E5F4F9B604BD61BC3&dn=Marshals%20S01E01%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"
+          },
+          {
+            "episodio": 2,
+            "titulo": "Zona de Morte",
+            "sinopse": "Enquanto se adapta como agente federal, Kayce participa de uma missão na fronteira entre Montana e Wyoming na região conhecida como 'Estação de Trem'.",
+            "magnet": "magnet:?xt=urn:btih:34B73002FAC8FD724BA4953B01FF0C5E76BDA0E8&dn=Marshals%20S01E02%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"
+          }
+        ]
+      }
+    }
+  ]
+}

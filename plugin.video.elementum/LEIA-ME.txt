@@ -1,0 +1,1 @@
+Coloque aqui o arquivo plugin.video.elementum-0.1.117.zip se desejar instalar o Elementum pelo repositório.
