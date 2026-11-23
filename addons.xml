@@ -8,8 +8,8 @@
       <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary lang="pt_br">Cine Telona - Filmes e Séries</summary>
-      <description lang="pt_br">Catálogo moderno de filmes e séries com atualização remota.</description>
+      <summary lang="pt_br">Cine Telona - Filmes e Series</summary>
+      <description lang="pt_br">Catalogo moderno de filmes e series.</description>
       <platform>all</platform>
       <assets>
         <icon>icon.png</icon>
@@ -18,17 +18,17 @@
     </extension>
   </addon>
 
-  <addon id="repository.telona" name="[COLOR FF00E5FF]Repositório[/COLOR] [COLOR FFB565FF]Telona[/COLOR]" version="1.0.0" provider-name="Nogueira">
-    <extension point="xbmc.addon.repository" name="Repositório Telona">
+  <addon id="repository.telona" name="[COLOR FF00E5FF]Repositorio[/COLOR] [COLOR FFB565FF]Telona[/COLOR]" version="1.0.2" provider-name="Nogueira">
+    <extension point="xbmc.addon.repository" name="Repositorio Telona">
       <dir>
-        <info compressed="false">https://nogueira01.github.io/telona/addons.xml</info>
-        <checksum>https://nogueira01.github.io/telona/addons.xml.md5</checksum>
-        <datadir zip="true">https://nogueira01.github.io/telona/</datadir>
+        <info compressed="false">https://github.io</info>
+        <checksum>https://github.io.md5</checksum>
+        <datadir zip="true">https://github.io</datadir>
       </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary lang="pt_br">Repositório Oficial Cine Telona</summary>
-      <description lang="pt_br">Instalação e atualizações automáticas do Cine Telona e Elementum.</description>
+      <summary lang="pt_br">Repositorio Oficial Cine Telona</summary>
+      <description lang="pt_br">Atualizacoes automaticas do Cine Telona.</description>
       <platform>all</platform>
       <assets>
         <icon>icon.png</icon>
@@ -37,16 +37,17 @@
     </extension>
   </addon>
 
-  <addon id="plugin.video.elementum" name="Elementum" version="0.1.117" provider-name="elgatito">
-    <requires>
-      <import addon="xbmc.python" version="3.0.1"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="navigation.py">
-      <provides>video</provides>
+  <addon id="repository.elementumorg" name="Elementumorg Repository" version="0.0.9" provider-name="elgatito">
+    <extension point="xbmc.addon.repository" name="Elementumorg Repository">
+      <dir>
+        <info compressed="false">https://elementum.org</info>
+        <checksum>https://elementum.org.md5</checksum>
+        <datadir zip="true">https://elementum.org</datadir>
+      </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary lang="en">Elementum media streaming</summary>
-      <description lang="en">Elementum torrent streaming add-on for Kodi.</description>
+      <summary lang="en">Elementumorg Repository</summary>
+      <description lang="en">Repositorio oficial para instalar o Elementum em qualquer aparelho.</description>
       <platform>all</platform>
     </extension>
   </addon>
